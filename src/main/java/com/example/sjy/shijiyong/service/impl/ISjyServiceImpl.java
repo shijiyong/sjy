@@ -8,6 +8,6 @@ public class ISjyServiceImpl implements ISjyService {
 
     public static void main(String[] args) {
 
-        System.out.print("打印2");
+        System.out.print("打印3");
     }
 }
